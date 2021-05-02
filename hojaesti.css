@@ -1,0 +1,119 @@
+body{
+	background: url('fondo.png');
+}
+.azul{
+	position: absolute;
+	left: 100px;
+	width: 1150px;
+	height: 600px;
+	background: #8AD6F7;
+	border: solid 5px black;
+}
+
+.uno{
+	position: absolute;
+	top:13px;
+	left:10px;
+	height:100px; 
+	width:500px;
+	background:#FFA3F6;
+	border: solid 5px black;
+}
+
+.dos{
+	position: absolute;
+	top:134px;
+	left:10px;
+	height:200px;
+	width:500px;
+	background:#FFA3F6;
+	border: solid 5px black;
+}
+
+.tres{
+	position: absolute;
+	top:370px;
+	left:10px;
+	height:200px;
+	width:200px;
+	background: url('billieuno.png');
+	background-size: cover;
+	border: solid 5px black;
+}
+
+.cuatro{
+	position: absolute;
+	top:370px;
+	left:240px;
+	height:200px;
+	width:268px;
+	background:#FFA3F6;
+	border: solid 5px black; 
+}
+
+.cinco{
+	position: absolute;
+	top:12px;
+	right:15px;
+	height:321px;
+	width:500px;
+	background:#FFA3F6;
+	border: solid 5px black;
+
+}
+
+.seis{
+	position: absolute;
+	top:35px;
+	right:40px;
+	height:150px;
+	width:450px;
+	background:#FFA3F6;
+	border: solid 5px black;
+
+}
+
+.siete{
+	position: absolute;
+	top:215px;
+	right:100px;
+	height:100px;
+	width:100px;
+	background: url('billietres.png');
+	background-size: cover;
+	border: solid 5px black;
+}
+
+.ocho{
+	position: absolute;
+	top:215px;
+	right:320px;
+	height:100px;
+	width:100px;
+	background: url('billiedos.png');
+	background-size: cover;
+	border: solid 5px black;
+
+}
+
+.nueve{
+	position: absolute;
+	top:370px;
+	right:15px;
+	height:200px;
+	width:200px;
+	background: url('billiecuatro.png');
+	background-size: cover;
+	border: solid 5px black;
+
+}
+
+.diez{
+	position: absolute;
+	top:370px;
+	right:247px;
+	height:200px;
+	width:268px;
+	background:#FFA3F6;
+	border: solid 5px black; 
+}
